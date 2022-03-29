@@ -226,9 +226,9 @@ We used the native colour values for the majority of the build but for certain b
 
 ## Main Takeaways
 
-- This was the last project and  I really felt that it was the culmination of what I had learnt, I realised I had to ask for less help and was able to self teach / learn from documentation a lot more. I feel far more confident being able to go on by myself and grow my skills. 
+- This was the last project and I really felt that it was the culmination of what I had learnt, I realised I had to ask for less help and was able to self teach / learn from documentation a lot more. I feel far more confident being able to go on by myself and grow my skills. 
 
-- Working with a partner is great to be able to bounce of ideas and work through bugs, but I need to create more projects by myself to make myself more self reliant.
+- Working with a partner is great to be able to bounce off ideas and work through bugs, but I need to create more projects by myself to make myself more self-reliant.
 
 - Loved working with Chakra UI and that made me keen to try other frameworks and libraries. 
 
@@ -242,6 +242,6 @@ Email - mayurkumardev@googlemail.com
 
 Project Link: https://mayur-sei-porject-4.herokuapp.com/
 
-Git Hub: https://github.com/Kumasta
+Github: https://github.com/Kumasta
 
 <p align="right">(<a href="#general-assembly-project-4-full-stack-project">back to top</a>)</p>

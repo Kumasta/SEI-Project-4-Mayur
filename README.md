@@ -240,4 +240,8 @@ Social - https://www.linkedin.com/in/mayur-kumar-dev/
 
 Email - mayurkumardev@googlemail.com
 
+Project Link: https://mayur-sei-porject-4.herokuapp.com/
+
+Git Hub: https://github.com/Kumasta
+
 <p align="right">(<a href="#general-assembly-project-4-full-stack-project">back to top</a>)</p>

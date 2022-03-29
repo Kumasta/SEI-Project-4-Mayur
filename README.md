@@ -24,10 +24,10 @@ Contributors: [Mayur Kumar](https://github.com/Kumasta), [Bashar Othman](https:/
       - [Dashboard Page](#dashboard-page)
       - [Profile Page](#profile-page)
       - [Styling](#styling)
-      - [Seeding](#seeding)
 - [Challenges](#challenges)
 - [Future Improvements](#future-improvements--changes)
 - [Main Takeaways](#main-takeaways)
+- [Contact](#contact)
 
 ## Brief
 
@@ -207,8 +207,37 @@ We used the native colour values for the majority of the build but for certain b
 
 ## Challenges
 
+- First time using Chakra UI in a build, took some learning time to learn its component structure and we also choose not to use any CSS/SASS. Needed to learn more inline styling syntax to get it the way we wanted it to.   
+
+- This was our first bask-end database built in Django python, there was a steep learning curve for us to get all the components (Models, serializers, views, urls etc.) learnt and working. Model relationships between user and giveaway many to many fields where not as dynamic as we had hoped it would be and we want to go back to improve this.   
+
+
 ## Future Improvements / Changes
 
+- Re-work the relationship with the user model field 'watchlist' and giveaways 'Watching_list' to make the exchange of ID more dynamic rather than having to separate API requests and have one instead.
+
+- Add state of giveaways when the time has expired, visually show that is finished and place them in another section on search results and dashboard/profile pages.  
+
+- Like and reply system to comments. They have been built into the models but not implemented due to time and key targets during build time. 
+
+- Homepage carousel images need standardisation in size and ratio. 
+
+- Homepage banner does not look good in light mode, would scrap and build it in Chakra. 
+
 ## Main Takeaways
+
+- This was the last project and  I really felt that it was the culmination of what I had learnt, I realised I had to ask for less help and was able to self teach / learn from documentation a lot more. I feel far more confident being able to go on by myself and grow my skills. 
+
+- Working with a partner is great to be able to bounce of ideas and work through bugs, but I need to create more projects by myself to make myself more self reliant.
+
+- Loved working with Chakra UI and that made me keen to try other frameworks and libraries. 
+
+- At the end of the course I know that I love developing and am excited to enter the industry. 
+
+## Contact
+
+Social - https://www.linkedin.com/in/mayur-kumar-dev/
+
+Email - mayurkumardev@googlemail.com
 
 <p align="right">(<a href="#general-assembly-project-4-full-stack-project">back to top</a>)</p>

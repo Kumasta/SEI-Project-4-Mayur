@@ -14,6 +14,7 @@ Contributors: [Mayur Kumar](https://github.com/Kumasta), [Bashar Othman](https:/
   - [Back-end](#back-end)
   - [Front-end](#front-end)
 - [Approach](#approach)
+    - [Planning](#planning)
     - [Document-Model-Breakdown](#document-model-breakdown)
     - [API-End-Points](#api-end-points)
     - [Front-end components](#front-end-components)
@@ -30,9 +31,10 @@ Contributors: [Mayur Kumar](https://github.com/Kumasta), [Bashar Othman](https:/
 - [Contact](#contact)
 
 ## Brief
-
+This was the last project of course, we were tasked to create a full stack build with a Django back-end server that creates an API for the front-end to consume. We could choose to work solo or in a group and we had 10 days to finish the MVP we set for ourselves.    
 
 ## Concept
+For our site, we wanted to create a hub where users could see a list of giveaways conducted by people like influencers, learn what was the prize, how to enter the competition and when the giveaway would end. You can think of this site being similar to a site like hotukdeals.com. We wanted to have two different types of users, a verified influencer account and regular account. Each would have different levels of access to the site's features. Social interaction would take place with comments on giveaways pages and users can follow influencers and their posts.    
 
 
 ## Languages, Packages and, technology used:
@@ -71,6 +73,22 @@ Contributors: [Mayur Kumar](https://github.com/Kumasta), [Bashar Othman](https:/
 - react-select
 
 ## Approach
+
+### Planning
+
+#### Wire Flow
+After we settled on our concept, we created a simple wire flow of how we thought the site would be used and how a user may use the site. We were able to accomplish most of what we set out to do in this flow, but we were not able to think much about stretch goals.       
+![image](https://user-images.githubusercontent.com/94964514/161787358-d019bb4a-3488-4a9b-be52-5d7e17446014.png)
+
+#### Wire Frame
+We created a wire frame to help visualise the front-end. As we were using the chakra-ui library we wanted to take advantage of the built-in colour theme changing hook and several other unique features. We also wanted to be able to reuse as many components as appropriate like the dashboard and profile components would share a lot of layout traits.    
+![image](https://user-images.githubusercontent.com/94964514/161787474-ff808cdd-9b6b-4c40-9390-fc68d7252aa5.png)
+
+
+#### Model Relationship Diagram
+For the back end we used quickdatabasediagrams.com to map out the fields in each of our models and the relationships they would have with each other. This was more of a challenge for us to visualise as it was a newer system (Django/SQL) we were working with and we spent the most amount of planning time on this to get it right.    
+![image](https://user-images.githubusercontent.com/94964514/161787573-1eedf5cd-ebc1-49fc-9664-d10e8f06f190.png)
+
 
 
 ### Document Model Breakdown. 
